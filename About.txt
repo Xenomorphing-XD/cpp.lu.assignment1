@@ -1,0 +1,3 @@
+The program starts by prompting the user to enter two integers, which are stored in variables num1 and num2. Then, using if-else statements, the program compares the two numbers to determine which is greater. If num1 is greater than num2, the program displays a message indicating that. If num2 is greater than num1, the program displays a message indicating that. And if the two numbers are equal, the program displays a message indicating that.
+
+Finally, the program returns 0 to indicate successful completion.
